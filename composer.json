@@ -1,0 +1,15 @@
+{
+    "name": "yangyao/ftp",
+    "authors": [
+        {
+            "name": "杨尧",
+            "email": "yangyao@sailvan.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Yangyao\\Ftp\\": "src/"
+        }
+    }
+}
